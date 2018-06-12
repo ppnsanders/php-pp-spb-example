@@ -1,0 +1,1 @@
+{ "client_id": "<YOUR_CLIENT_ID>", "client_secret": "<YOUR_CLIENT_SECRET>", "email": "<YOUR_EMAIL>", "payerId": "<YOUR_PAYER_ID>", "brandName": "<YOUR_BRAND_NAME>", "environment": "sandbox" }
